@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="button_name">Lights Out?</string>
+    <string name="button_name1">Reset</string>
+    <string name="button_name2">Crash</string>
+    <string name="title_activity_child">ChildActivity</string>
+    <string name="title_activity_sendlogs">Send Crash logs</string>
+</resources>
